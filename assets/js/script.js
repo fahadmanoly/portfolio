@@ -86,7 +86,7 @@ function sendEmail() {
     
    // created body string 
  
-   const uri = `mailto:anoopa413@gmail.com?body=${encodeURIComponent(body)}`;
+   const uri = `mailto:fahadmanoly@gmail.com?body=${encodeURIComponent(body)}`;
    // created final uri to redirect to
     window.location.href = uri;
     return true;
